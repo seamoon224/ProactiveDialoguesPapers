@@ -121,3 +121,10 @@ Outline
 ### Reinforcement Learning
 - [Prompt-Based Monte-Carlo Tree Search for Goal-oriented Dialogue Policy Planning](https://aclanthology.org/2023.emnlp-main.439/) (EMNLP 2023) [[repo](https://github.com/jasonyux/GDPZero)]
 - [Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents](https://arxiv.org/abs/2311.00262) (ICLR 2024) [[repo](https://github.com/dengyang17/PPDPP)]
+
+## To be classified
+- [Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors]() (ACL 2025) [[repo](https://github.com/iwangjian/Coding-Tutor)]
+- [ComPeer: A Generative Conversational Agent for Proactive Peer Support](https://arxiv.org/abs/2407.18064) (UIST 2024) [[repo](https://github.com/liutj9/ComPeer)]
+- [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/abs/2505.12334) (Arxiv) [[repo](https://github.com/wang678/LLM-UPC)]
+- [Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History](https://aclanthology.org/2025.conll-1.4/) (CONLL 2025) [[repo](https://github.com/FrontierLabs/MapDia)]
+- [ProTOD: Proactive Task-oriented Dialogue System Based on Large Language Model](https://aclanthology.org/2025.coling-main.614/) (COLING 2025) [[repo](https://github.com/melonhh/ProTOD)]
